@@ -1,5 +1,5 @@
 #include<iostream>
 using namespace std;
 int main() {
-	cout << "Hello Git!This is Third change!" << endl;
+	cout << "Hello Git!Creating a new branch is quick!" << endl;
 }
